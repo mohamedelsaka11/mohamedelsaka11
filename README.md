@@ -29,14 +29,19 @@
 
 ---
 
-### 🚀 Notable Projects
+🚀 Notable Projects
 
-- 🔹 **Image Captioning System** – CV + NLP system using DenseNet201 and LSTM  
-- 🔹 **Sentiment Analysis with BERT** – Fine-tuned transformer model on text reviews  
-- 🔹 **Customer Churn Prediction** – XGBoost + SMOTE for telecom churn forecasting  
-- 🔹 **Face Mask Detection** – MobileNetV2-based real-time mask classification  
-- 🔹 **Breast Cancer Classification** – DNN model trained on medical features  
-- 🔹 **Credit Card Fraud Detection** – Logistic Regression on imbalanced financial data
+🖼️ Image Captioning System – CV + NLP pipeline using DenseNet201 and LSTM to auto-generate image descriptions. (TensorFlow, Keras, Transfer Learning)
+
+🎬 Movie Recommendation System – Built a content-based recommendation engine using TF-IDF and cosine similarity with a deployed Streamlit app. (Python, Scikit-learn, Pandas, Streamlit)
+
+📊 Sentiment Analysis with BERT – Fine-tuned transformer model for sentiment classification on customer reviews. (Transformers, TensorFlow, NLP)
+
+🚪 Customer Churn Prediction – Predictive modeling using XGBoost with SMOTE for imbalanced data in telecom churn. (XGBoost, Scikit-learn)
+
+📈 Stock Price Prediction App – Forecasts future stock trends using Facebook Prophet and yfinance with an interactive Streamlit interface. (Prophet, yfinance, Python, Streamlit)
+
+😷 Face Mask Detection – Real-time classification using MobileNetV2 with high accuracy on test data. (Transfer Learning, OpenCV)
 
 ---
 
