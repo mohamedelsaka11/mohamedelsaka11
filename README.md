@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science graduate with a specialization in AI and Data Science  
+- 🎓 Computer Science graduate with a specialization in AI and Data Science (Class of 2023) 
 - 💡 I build intelligent, end-to-end machine learning solutions using real-world data  
 - 🧠 Skilled in Python, SQL, Scikit-learn, TensorFlow, PyTorch, and NLP  
 - ⚙️ Experienced in training, optimizing, and deploying AI models  
