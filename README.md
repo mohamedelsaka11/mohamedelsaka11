@@ -31,6 +31,13 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 Smarter Chatbot  
+An AI-powered chatbot built using **Microsoft Phi-3-mini-4k-instruct** and **Gradio** for an interactive user experience.  
+- Integrated with Hugging Face Inference API for cloud-based model execution  
+- Maintains conversation history for improved context  
+- Adjustable max tokens, temperature, and top-p for flexible responses  
+- Deployed on Hugging Face Spaces for public access 
+
 ### 🖼️ Image Captioning System  
 An end-to-end pipeline that combines Computer Vision and NLP to generate image captions.  
 - Utilized **DenseNet201** for feature extraction and an **LSTM-based decoder** for caption generation  
