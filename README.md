@@ -79,6 +79,7 @@ Real-time image classification for mask detection.
 
 ### 📄 Certifications
 
+- AI Agents Fundamentals – *Hugging Face*
 - Associate Data Scientist – *DataCamp*  
 - Machine Learning with scikit-learn – *DataCamp* 
 - Deep Learning with TensorFlow and PyTorch – *DataCamp*
