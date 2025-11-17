@@ -1,102 +1,94 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elsaka</h1>
-
-<p align="center">
-  <strong>AI Engineer & Data Scientist</strong>  
-  <br />
-  Passionate about solving real-world problems using Machine Learning, Deep Learning, and NLP.
-</p>
+# Hi 👋, I'm Mohamed Elsaka
+**AI Engineer & Data Scientist**  
+Passionate about solving real-world problems using Machine Learning, Deep Learning, NLP, and AI-driven solutions.
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 Computer Science graduate with a specialization in AI and Data Science (Class of 2023) 
-- 💡 I build intelligent, end-to-end machine learning solutions using real-world data  
-- 🧠 Skilled in Python, SQL, Scikit-learn, TensorFlow, PyTorch, and NLP  
-- ⚙️ Experienced in training, optimizing, and deploying AI models  
-- 🔍 Lifelong learner, always exploring cutting-edge technologies
+## 🌟 About Me
+🎓 Computer Science graduate specialized in AI and Data Science (Class of 2023)  
+💡 Delivered 15+ end-to-end AI projects from data preprocessing to model deployment  
+⚙️ Skilled in Python, SQL, Machine Learning (Scikit-learn, XGBoost), Deep Learning (TensorFlow, PyTorch), and NLP  
+🔍 Lifelong learner exploring cutting-edge AI technologies: LLMs, RAG, LangChain  
+🧠 Expertise: AI model training, optimization, deployment, scalable ML pipelines
 
 ---
 
-### 🧠 Core Skills
+## 🧰 Skills & Badges
 
-- **Programming**: Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning**: Scikit-learn, XGBoost, Model Evaluation, Hyperparameter Tuning  
-- **Deep Learning**: TensorFlow, Keras, PyTorch, ANN, CNN, RNN, Transfer Learning  
-- **NLP**: BERT, NLTK, SpaCy, Text Classification, Sentiment Analysis  
-- **Model Deployment**: Streamlit, FastAPI, Pickle  
-- **Tools**: Jupyter, Kaggle, Git, Power BI, Excel
+**Programming & Tools:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=white)  
+
+**Machine Learning & AI:**  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat)  
+**Deep Learning:** TensorFlow, Keras, PyTorch, ANN, CNN, RNN, Transfer Learning  
+
+**NLP & LLMs:** BERT, SpaCy, Text Classification, Sentiment Analysis, Prompt Engineering, LLMs, RAG, LangChain  
+
+**Data Analytics:** EDA, Data Cleaning, Feature Engineering, Data Transformation, Visualization  
+
+**Model Deployment:** Streamlit, FastAPI, Pickle, Hugging Face Spaces  
+
+**Web Technologies:** HTML, CSS, Bootstrap, Web Scraping (BeautifulSoup, Requests)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Smarter Chatbot  
-An AI-powered chatbot built using **Microsoft Phi-3-mini-4k-instruct** and **Gradio** for an interactive user experience.  
-- Integrated with Hugging Face Inference API for cloud-based model execution  
-- Maintains conversation history for improved context  
-- Adjustable max tokens, temperature, and top-p for flexible responses  
-- Deployed on Hugging Face Spaces for public access 
+### 🤖 RAG Question Answering System
+- Built a Retrieval-Augmented Generation (RAG) system using LangChain, Groq LLM, and HuggingFace embeddings  
+- Achieved <40ms vector search latency with ChromaDB & FAISS  
+- Reduced hallucinations, improving answer accuracy by 40%  
+- [GitHub Repository](#)
 
-### 🖼️ Image Captioning System  
-An end-to-end pipeline that combines Computer Vision and NLP to generate image captions.  
-- Utilized **DenseNet201** for feature extraction and an **LSTM-based decoder** for caption generation  
-- Preprocessed text data with tokenization and sequence padding  
-- Deployed using **Streamlit** for real-time image-to-text generation  
+### 🤖 Smarter Chatbot
+- AI-powered chatbot with Microsoft Phi-3-mini-4k-instruct and Gradio  
+- Maintains conversation memory for context-aware responses  
+- Deployed on Hugging Face Spaces for cloud-based real-time access  
+- [GitHub Repository](#)
 
-### 🎬 Movie Recommendation System  
-A personalized, content-based movie recommender built with Scikit-learn.  
-- Applied **cosine similarity** on TF-IDF features to find similar movies  
-- Integrated **OMDb API** for real-time metadata and visuals  
-- Deployed via **Streamlit** for an intuitive user experience  
+### 🖼️ Image Captioning System
+- End-to-end Computer Vision + NLP pipeline for automatic captions  
+- DenseNet201 + LSTM decoder for feature extraction & language generation  
+- Deployed via Streamlit for real-time interaction  
+- [GitHub Repository](#)
 
-### 📊 Sentiment Analysis with BERT  
-Sentiment classification using fine-tuned transformer architecture.  
-- Fine-tuned **BERT** from HuggingFace Transformers  
-- Employed **TensorFlow** with early stopping and LR scheduling  
-- Achieved strong performance on real-world review datasets  
+### 🎬 Movie Recommendation System
+- Content-based recommender using cosine similarity and TF-IDF features  
+- Integrated OMDb API for real-time metadata and visuals  
+- Deployed via Streamlit for seamless user experience  
+- [GitHub Repository](#)
 
-### 🚪 Customer Churn Prediction  
-ML pipeline to predict telecom customer churn.  
-- Used **XGBoost** with **SMOTE** for imbalanced classification  
-- Applied **EDA**, feature engineering, and **GridSearchCV** tuning  
-- Final model deployed using **scikit-learn** and **Pickle**  
+### 📊 Sentiment Analysis with BERT
+- Fine-tuned BERT for sentiment classification (~92% accuracy)  
+- Preprocessing, tokenization, dataset prep, TensorFlow training with hyperparameter tuning  
+- [GitHub Repository](#)
 
-### 📈 Stock Price Prediction  
-Time series model predicting Apple's stock price.  
-- Built an **LSTM** model trained on AAPL stock data from **yFinance**  
-- Applied a 60-day sliding window to forecast future prices  
-- Visualized predictions with **Matplotlib** for interpretability  
-
-### 😷 Face Mask Detection  
-Real-time image classification for mask detection.  
-- Implemented transfer learning using **MobileNetV2**  
-- Achieved high classification accuracy on facial images  
-- Suitable for deployment in public safety systems  
-
+### 🚪 Customer Churn Prediction
+- ML pipeline using XGBoost & SMOTE  
+- EDA, feature engineering, GridSearchCV tuning, real-time prediction deployment  
+- [GitHub Repository](#)
 
 ---
 
-### 📄 Certifications
-
-- AI Agents Fundamentals – *Hugging Face*
-- Associate Data Scientist – *DataCamp*  
-- Machine Learning with scikit-learn – *DataCamp* 
-- Deep Learning with TensorFlow and PyTorch – *DataCamp*
-- Data Analysis – *DataCamp* 
-- Python for Data Science – *DataCamp* 
-
+## 📜 Certifications
+- ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FE6A00?style=flat) AI Agents Fundamentals  
+- ![DataCamp](https://img.shields.io/badge/-DataCamp-0080FF?style=flat) Associate Data Scientist  
+- Machine Learning with Scikit-learn  
+- Deep Learning with TensorFlow & PyTorch  
+- Data Analysis  
+- Python for Data Science  
+- LLM & RAG Concepts – Hugging Face  
+- LangChain Fundamentals – Hugging Face  
 
 ---
 
-### 📫 Connect With Me
-
+## 📫 Connect With Me
 - 📧 Email: elsakka898@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mohamed-elsaka)  
-- 📊 [Kaggle](https://www.kaggle.com/mohamedelsakadev)
+- 🌐 [LinkedIn](#)  
+- 📊 [Kaggle](#)  
 
----
-
-<p align="center">
-  🔍 *Let's innovate with data and turn ideas into AI-powered solutions.*  
-</p>
+*Let's innovate with data and turn ideas into AI-powered solutions.*
