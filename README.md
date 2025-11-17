@@ -48,41 +48,34 @@ Passionate about solving real-world problems using Machine Learning, Deep Learni
 - AI-powered chatbot with Microsoft Phi-3-mini-4k-instruct and Gradio  
 - Maintains conversation memory for context-aware responses  
 - Deployed on Hugging Face Spaces for cloud-based real-time access  
-- [GitHub Repository](#)
 
 ### 🖼️ Image Captioning System
 - End-to-end Computer Vision + NLP pipeline for automatic captions  
 - DenseNet201 + LSTM decoder for feature extraction & language generation  
 - Deployed via Streamlit for real-time interaction  
-- [GitHub Repository](#)
 
 ### 🎬 Movie Recommendation System
 - Content-based recommender using cosine similarity and TF-IDF features  
 - Integrated OMDb API for real-time metadata and visuals  
 - Deployed via Streamlit for seamless user experience  
-- [GitHub Repository](#)
 
 ### 📊 Sentiment Analysis with BERT
 - Fine-tuned BERT for sentiment classification (~92% accuracy)  
 - Preprocessing, tokenization, dataset prep, TensorFlow training with hyperparameter tuning  
-- [GitHub Repository](#)
 
 ### 🚪 Customer Churn Prediction
 - ML pipeline using XGBoost & SMOTE  
-- EDA, feature engineering, GridSearchCV tuning, real-time prediction deployment  
-- [GitHub Repository](#)
-
+- EDA, feature engineering, GridSearchCV tuning, real-time prediction deployment
+  
 ---
 
 ## 📜 Certifications
-- ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FE6A00?style=flat) AI Agents Fundamentals  
+- ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FE6A00?style=flat) Large Language Models (LLMs)
 - ![DataCamp](https://img.shields.io/badge/-DataCamp-0080FF?style=flat) Associate Data Scientist  
 - Machine Learning with Scikit-learn  
 - Deep Learning with TensorFlow & PyTorch  
 - Data Analysis  
-- Python for Data Science  
-- LLM & RAG Concepts – Hugging Face  
-- LangChain Fundamentals – Hugging Face  
+- Python for Data Science   
 
 ---
 
