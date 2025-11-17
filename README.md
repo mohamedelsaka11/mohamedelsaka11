@@ -4,34 +4,23 @@ Passionate about solving real-world problems using Machine Learning, Deep Learni
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 🎓 Computer Science graduate specialized in AI and Data Science (Class of 2023)  
-💡 Delivered 15+ end-to-end AI projects from data preprocessing to model deployment  
+💡 Experienced in delivering 15+ end-to-end AI projects from data preprocessing to model deployment  
 ⚙️ Skilled in Python, SQL, Machine Learning (Scikit-learn, XGBoost), Deep Learning (TensorFlow, PyTorch), and NLP  
-🔍 Lifelong learner exploring cutting-edge AI technologies: LLMs, RAG, LangChain  
-🧠 Expertise: AI model training, optimization, deployment, scalable ML pipelines
+🔍 Lifelong learner, continuously exploring cutting-edge AI technologies like LLMs, RAG, and LangChain  
+🧠 Core expertise: AI model training, optimization, deployment, and building scalable ML solutions
 
 ---
 
-## 🧰 Skills & Badges
+## 🧠 Core Skills
 
-**Programming & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=white)  
-
-**Machine Learning & AI:**  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat)  
+**Programming & Tools:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI, Git, Jupyter  
+**Machine Learning & AI:** Scikit-learn, XGBoost, Model Evaluation, Hyperparameter Tuning  
 **Deep Learning:** TensorFlow, Keras, PyTorch, ANN, CNN, RNN, Transfer Learning  
-
-**NLP & LLMs:** BERT, SpaCy, Text Classification, Sentiment Analysis, Prompt Engineering, LLMs, RAG, LangChain  
-
+**NLP & LLMs:** BERT, NLTK, SpaCy, Text Classification, Sentiment Analysis, Prompt Engineering, RAG, Hugging Face Transformers, LangChain  
 **Data Analytics:** EDA, Data Cleaning, Feature Engineering, Data Transformation, Visualization  
-
-**Model Deployment:** Streamlit, FastAPI, Pickle, Hugging Face Spaces  
-
+**Model Deployment & APIs:** Streamlit, FastAPI, Pickle, Hugging Face Spaces  
 **Web Technologies:** HTML, CSS, Bootstrap, Web Scraping (BeautifulSoup, Requests)
 
 ---
@@ -40,42 +29,44 @@ Passionate about solving real-world problems using Machine Learning, Deep Learni
 
 ### 🤖 RAG Question Answering System
 - Built a Retrieval-Augmented Generation (RAG) system using LangChain, Groq LLM, and HuggingFace embeddings  
-- Achieved <40ms vector search latency with ChromaDB & FAISS  
-- Reduced hallucinations, improving answer accuracy by 40%  
-- [GitHub Repository](#)
+- Implemented full data ingestion pipeline with TextLoader, preprocessing, CharacterTextSplitter, and SentenceTransformer embeddings  
+- Achieved <40ms vector search latency using ChromaDB and FAISS  
+- Reduced hallucinations and improved accuracy by 40% through context-grounded responses  
 
 ### 🤖 Smarter Chatbot
 - AI-powered chatbot with Microsoft Phi-3-mini-4k-instruct and Gradio  
-- Maintains conversation memory for context-aware responses  
+- Maintains conversation memory for context-aware interactions  
 - Deployed on Hugging Face Spaces for cloud-based real-time access  
 
 ### 🖼️ Image Captioning System
-- End-to-end Computer Vision + NLP pipeline for automatic captions  
-- DenseNet201 + LSTM decoder for feature extraction & language generation  
-- Deployed via Streamlit for real-time interaction  
+- End-to-end Computer Vision + NLP system to generate image captions  
+- DenseNet201 for feature extraction + LSTM for language generation  
+- Deployed with Streamlit for interactive image-to-text captioning  
 
 ### 🎬 Movie Recommendation System
-- Content-based recommender using cosine similarity and TF-IDF features  
-- Integrated OMDb API for real-time metadata and visuals  
-- Deployed via Streamlit for seamless user experience  
+- Content-based recommender using Scikit-learn and cosine similarity  
+- Integrated OMDb API for real-time movie plots and posters  
+- Deployed with Streamlit for seamless user experience  
 
 ### 📊 Sentiment Analysis with BERT
-- Fine-tuned BERT for sentiment classification (~92% accuracy)  
-- Preprocessing, tokenization, dataset prep, TensorFlow training with hyperparameter tuning  
+- Fine-tuned BERT for sentiment classification on IMDB dataset (~92% accuracy)  
+- Complete pipeline with preprocessing, tokenization, dataset preparation, and TensorFlow training  
+- Optimized performance with hyperparameter tuning, learning rate scheduling, and regularization  
 
 ### 🚪 Customer Churn Prediction
-- ML pipeline using XGBoost & SMOTE  
-- EDA, feature engineering, GridSearchCV tuning, real-time prediction deployment
-  
+- Predictive ML system using XGBoost and SMOTE  
+- Full pipeline: EDA, preprocessing, feature engineering, hyperparameter optimization via GridSearchCV  
+- Real-time churn prediction function deployed with Pickle  
+
 ---
 
-## 📜 Certifications
-- ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FE6A00?style=flat) Large Language Models (LLMs)
-- ![DataCamp](https://img.shields.io/badge/-DataCamp-0080FF?style=flat) Associate Data Scientist  
-- Machine Learning with Scikit-learn  
-- Deep Learning with TensorFlow & PyTorch  
-- Data Analysis  
-- Python for Data Science   
+## 📄 Certifications & Courses
+- Large Language Models (LLMs) – Hugging Face  
+- Associate Data Scientist – DataCamp  
+- Machine Learning with Scikit-learn – DataCamp  
+- Deep Learning with TensorFlow & PyTorch – DataCamp  
+- Data Analysis – DataCamp  
+- Python for Data Science – DataCamp  
 
 ---
 
