@@ -1,78 +1,80 @@
-# Hi 👋, I'm Mohamed Elsaka
-**AI Engineer & Data Scientist**  
-Passionate about solving real-world problems using Machine Learning, Deep Learning, NLP, and AI-driven solutions.
+# Hi there, I'm Mohamed Elsaka 👋
+### AI Engineer | Generative AI Specialist | LLM Orchestration
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-elsaka-75078021a/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=flat&logo=gmail)](mailto:elsakka898@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
-🎓 Computer Science graduate specialized in AI and Data Science (Class of 2023)  
-💡 Experienced in delivering 15+ end-to-end AI projects from data preprocessing to model deployment  
-⚙️ Skilled in Python, SQL, Machine Learning (Scikit-learn, XGBoost), Deep Learning (TensorFlow, PyTorch), and NLP  
-🔍 Lifelong learner, continuously exploring cutting-edge AI technologies like LLMs, RAG, and LangChain  
-🧠 Core expertise: AI model training, optimization, deployment, and building scalable ML solutions
+### 👨‍💻 About Me
+
+I am a **Computer Science graduate** and an **AI Engineer** passionate about bridging the gap between research models and production-grade applications. Currently, I focus on **Generative AI**, **Multi-Agent Systems**, and **MLOps**.
+
+*   🔭 I’m currently working on **Autonomous Agentic Workflows** using LangGraph.
+*   🤖 specialized in **LLM Orchestration**, **RAG Systems**, and **Reinforcement Learning from Human Feedback (RLHF)**.
+*   💼 Experience in evaluating and optimizing code generation for advanced LLMs at **Outlier**.
+*   🌱 Continuously learning: **Docker**, **Kubernetes**, and **Cloud Deployment**.
 
 ---
 
-## 🧠 Core Skills
+### 🛠️ Tech Stack
 
-**Programming & Tools:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI, Git, Jupyter  
-**Machine Learning & AI:** Scikit-learn, XGBoost, Model Evaluation, Hyperparameter Tuning  
-**Deep Learning:** TensorFlow, Keras, PyTorch, ANN, CNN, RNN, Transfer Learning  
-**NLP & LLMs:** BERT, NLTK, SpaCy, Text Classification, Sentiment Analysis, Prompt Engineering, RAG, Hugging Face Transformers, LangChain  
-**Data Analytics:** EDA, Data Cleaning, Feature Engineering, Data Transformation, Visualization  
-**Model Deployment & APIs:** Streamlit, FastAPI, Pickle, Hugging Face Spaces  
-**Web Technologies:** HTML, CSS, Bootstrap, Web Scraping (BeautifulSoup, Requests)
+**Languages & Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+**AI & GenAI:**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-Prompt_Engineering-000000?style=flat)
 
-## 🚀 Featured Projects
-
-### 🤖 RAG Question Answering System
-- Built a Retrieval-Augmented Generation (RAG) system using LangChain, Groq LLM, and HuggingFace embeddings  
-- Implemented full data ingestion pipeline with TextLoader, preprocessing, CharacterTextSplitter, and SentenceTransformer embeddings  
-- Achieved <40ms vector search latency using ChromaDB and FAISS  
-- Reduced hallucinations and improved accuracy by 40% through context-grounded responses  
-
-### 🤖 Smarter Chatbot
-- AI-powered chatbot with Microsoft Phi-3-mini-4k-instruct and Gradio  
-- Maintains conversation memory for context-aware interactions  
-- Deployed on Hugging Face Spaces for cloud-based real-time access  
-
-### 🖼️ Image Captioning System
-- End-to-end Computer Vision + NLP system to generate image captions  
-- DenseNet201 for feature extraction + LSTM for language generation  
-- Deployed with Streamlit for interactive image-to-text captioning  
-
-### 🎬 Movie Recommendation System
-- Content-based recommender using Scikit-learn and cosine similarity  
-- Integrated OMDb API for real-time movie plots and posters  
-- Deployed with Streamlit for seamless user experience  
-
-### 📊 Sentiment Analysis with BERT
-- Fine-tuned BERT for sentiment classification on IMDB dataset (~92% accuracy)  
-- Complete pipeline with preprocessing, tokenization, dataset preparation, and TensorFlow training  
-- Optimized performance with hyperparameter tuning, learning rate scheduling, and regularization  
-
-### 🚪 Customer Churn Prediction
-- Predictive ML system using XGBoost and SMOTE  
-- Full pipeline: EDA, preprocessing, feature engineering, hyperparameter optimization via GridSearchCV  
-- Real-time churn prediction function deployed with Pickle  
+**Data & MLOps:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
-## 📄 Certifications & Courses
-- Large Language Models (LLMs) – Hugging Face  
-- Associate Data Scientist – DataCamp  
-- Machine Learning with Scikit-learn – DataCamp  
-- Deep Learning with TensorFlow & PyTorch – DataCamp  
-- Data Analysis – DataCamp  
-- Python for Data Science – DataCamp  
+### 🚀 Featured Projects
+
+#### 🤖 [Doctor Appointment Multi-Agent System](https://github.com/mohamedelsaka11/multi-agent-doctor-appointment-ai)
+*An autonomous system architected to orchestrate healthcare workflows with zero human intervention.*
+*   **Tech:** LangGraph, LangChain, Groq LLM, FastAPI.
+*   **Impact:** Achieved **<3 seconds** response time for concurrent agent requests.
+*   **Key Feature:** Full automation of booking and rescheduling via stateful agentic workflows.
+
+#### 🧠 [RAG Question Answering System](https://github.com/mohamedelsaka11/RAG-Question-Answering-System-)
+*High-performance Retrieval-Augmented Generation pipeline.*
+*   **Tech:** LangChain, ChromaDB, FAISS, HuggingFace Embeddings.
+*   **Impact:** Reduced hallucinations and improved accuracy by **40%** via context grounding.
+*   **Key Feature:** <40ms vector search latency for scalable semantic retrieval.
+
+#### 🖼️ [Image Captioning (Multimodal AI)](https://github.com/mohamedelsaka11/image-captioning-app)
+*End-to-end system combining Computer Vision and NLP.*
+*   **Tech:** DenseNet201 (CNN), LSTM, TensorFlow.
+*   **Impact:** Optimized BLEU scores through hyperparameter tuning.
+*   **Key Feature:** Real-time caption generation deployed on Streamlit.
+
+#### 📊 [Sentiment Analysis with BERT](https://github.com/mohamedelsaka11/sentiment-analysis-bert)
+*Fine-tuned Transformer model for binary classification.*
+*   **Tech:** BERT, Hugging Face, MLOps Pipeline.
+*   **Impact:** Achieved **~92% accuracy** on the IMDB dataset.
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: elsakka898@gmail.com  
-- 🌐 [LinkedIn](#)  
-- 📊 [Kaggle](#)  
+### 📜 Certifications
 
-*Let's innovate with data and turn ideas into AI-powered solutions.*
+*   🏆 **Large Language Models (LLMs)** – Hugging Face
+*   🏆 **Associate Data Scientist** – DataCamp
+*   🏆 **Deep Learning with TensorFlow & PyTorch** – DataCamp
+*   🏆 **Machine Learning Scientist** – DataCamp
+
+---
+
+<div align="center">
+  <i>Let's innovate with data and turn ideas into AI-powered solutions.</i>
+</div>
