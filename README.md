@@ -79,12 +79,6 @@ End-to-end system combining Computer Vision and NLP.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedelsaka11&show_icons=true&theme=dark)
-
----
-
 ## 📫 Let's Connect!
 
 Feel free to reach out for collaborations or opportunities!
