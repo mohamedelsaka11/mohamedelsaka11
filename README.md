@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Elsaka 👋
 ### 🚀 AI Engineer | Generative AI Specialist | LLM Orchestration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsaka-75078021a/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsaka-75078021a/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmohamed63@gmail.com)
 
 ---
