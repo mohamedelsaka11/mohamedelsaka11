@@ -65,8 +65,8 @@ Here are some of the advanced AI systems I've architected:
 
 ### 📈 GitHub Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedElsaka&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElsaka&layout=compact&theme=radical)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedelsaka11&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelsaka11&layout=compact&theme=radical)
 
 ---
 
