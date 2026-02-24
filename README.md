@@ -74,4 +74,4 @@ Here are some of the advanced AI systems I've architected:
 
 Feel free to reach out for collaborations or opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsaka-75078021a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsaka-75078021a/)
