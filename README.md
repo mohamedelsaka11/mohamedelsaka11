@@ -19,126 +19,13 @@ I am a results-oriented **AI Engineer** with a strong foundation in Computer Sci
 
 ### 🛠️ Tech Stack & Arsenal
 
-|
- Domain 
-|
- Technologies 
-|
-|
-:---
-|
-:---
-|
-|
-**
-Generative AI
-**
-|
-!
-[
-LangChain
-](
-https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white
-)
-!
-[
-LangGraph
-](
-https://img.shields.io/badge/LangGraph-FF4B4B?style=flat
-)
-!
-[
-Groq
-](
-https://img.shields.io/badge/Groq-Fast_Inference-orange?style=flat
-)
-!
-[
-HuggingFace
-](
-https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black
-)
-|
-|
-**
-Machine Learning
-**
-|
-!
-[
-PyTorch
-](
-https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white
-)
-!
-[
-TensorFlow
-](
-https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white
-)
-!
-[
-Scikit-Learn
-](
-https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white
-)
-|
-|
-**
-Backend & Data
-**
-|
-!
-[
-Python
-](
-https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
-)
-!
-[
-FastAPI
-](
-https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white
-)
-!
-[
-SQLAlchemy
-](
-https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white
-)
-!
-[
-PostgreSQL
-](
-https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white
-)
-|
-|
-**
-Tools & MLOps
-**
-|
-!
-[
-Git
-](
-https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
-)
-!
-[
-Docker
-](
-https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
-)
-!
-[
-Streamlit
-](
-https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white
-)
-|
+| Domain | Technologies |
+| :--- | :--- |
+| **Generative AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=flat) ![Groq](https://img.shields.io/badge/Groq-Fast_Inference-orange?style=flat) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) |
+| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Backend & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| **Tools & MLOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 
----
 
 
 ### 🏆 Featured Projects
@@ -187,4 +74,4 @@ Here are some of the advanced AI systems I've architected:
 
 Feel free to reach out for collaborations or opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)]([LINK_TO_LINKEDIN](https://www.linkedin.com/in/mohamed-elsaka-75078021a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsaka-75078021a/))
