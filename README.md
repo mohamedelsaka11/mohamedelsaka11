@@ -63,9 +63,11 @@ Here are some of the advanced AI systems I've architected:
 
 ---
 
-### 🔥 GitHub Streaks
+### ⚡ Currently Focusing On
 
-![Mohamed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedelsaka11&theme=radical)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Building+Autonomous+Multi-Agent+Systems;Architecting+Scalable+RAG+Pipelines;Fine-Tuning+Llama+3.3+on+Custom+Data;Optimizing+AI+Workflows+with+LangGraph" alt="Typing Animation" />
+</p>
 
 ---
 
