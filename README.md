@@ -34,10 +34,10 @@ Here are some of the advanced AI systems I've architected:
 
 #### 📄 **[Arabic Document Intelligence System]([LINK_TO_REPO](https://github.com/mohamedelsaka11/Arabic-document-intelligence))**
 
-Vision-Language Model system for extracting structured information from Arabic documents using Gemma 3 and LoRA fine-tuning.
+*Vision-Language Model system for extracting structured information from Arabic documents using Gemma 3 and LoRA fine-tuning.*
 
-Tech: Python, PyTorch, HuggingFace Transformers, Gemma 3 VLM, PEFT/LoRA.
-Capabilities: Arabic document understanding, VLM fine-tuning, OCR-oriented extraction, structured JSON parsing, and reusable inference pipeline.
+- **Tech:** Python, PyTorch, HuggingFace Transformers, Gemma 3 VLM, PEFT/LoRA.
+- **Capabilities:** Arabic document understanding, VLM fine-tuning, OCR-oriented extraction, structured JSON parsing, and reusable inference pipeline.
 
 #### 🤖 **[AI-Powered Multi-Agent Business Intelligence System]([LINK_TO_REPO](https://github.com/mohamedelsaka11/Smart-Business-Agents))**
 *An autonomous system orchestrating 4 agents (Monitor, Recommendation, Automation, Reporting) for real-time decision making.*
